@@ -3,8 +3,10 @@
 This folder contains my solution for Test 2 of the assignment.
 
 ## Contents
-- main.py      → Python script implementing the required logic
-- README_Test2.md → This explanation file
+- main.py     
+- README.md
+- Test2.pdf
+- leaderboard.pdf
 
 ## Approach
 1. Carefully analyzed the problem statement and defined the expected inputs/outputs.
@@ -20,7 +22,7 @@ This folder contains my solution for Test 2 of the assignment.
 
 ## How to Run
 ```
-python solution.py
+python main.py
 ```
 ## Notes
 - The solution focuses on accuracy and clear reasoning, following the assignment requirements strictly.
